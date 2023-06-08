@@ -1,0 +1,17 @@
+body
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.test_image_and_result
+{
+    background: rgb(45, 96, 162);
+    max-width:97%;
+    color:aliceblue;
+    border-radius:20px;
+    margin-bottom:20px;
+}
+
+li{
+    margin-left:30px;
+}
